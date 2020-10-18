@@ -79,7 +79,7 @@ rpm-v2-arm64:
 	  --define "buildarch aarch64" --target aarch64 --define "dist .amzn2" \
 	  -bb packaging/rpm/mkr-v2.spec
 
-PHONY: deb
+.PHONY: deb
 deb: deb-v1 deb-v2
 
 .PHONY: deb-v1
