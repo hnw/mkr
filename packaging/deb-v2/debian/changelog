@@ -1,3 +1,5 @@
+mkr (0.40.5-1.v2) stable; urgency=low
+
 mkr (0.40.4-1.v2) stable; urgency=low
 
   * Bump github.com/mackerelio/mackerel-client-go from 0.10.1 to 0.11.0 (by dependabot-preview[bot])
